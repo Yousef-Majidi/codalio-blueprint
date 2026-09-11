@@ -50,6 +50,7 @@ The **prd-builder** skill gathers your idea, asks a few clarifying questions, th
 - **[doc-generation](skills/doc-generation/SKILL.md)** — turn an approved PRD into supporting docs (backlog, API contract sketch, onboarding doc)
 - **[code-to-prd](skills/code-to-prd/SKILL.md)** — reverse direction: reconstruct a PRD-style doc from an existing codebase
 - **[regression-analysis](skills/regression-analysis/SKILL.md)** — trace what a change could break through its consumers, ranked by how silently each failure would happen
+- **[test-planning](skills/test-planning/SKILL.md)** — decide which tests must exist before a change ships, at which tier, and which are not worth writing
 
 ## Roadmap
 
